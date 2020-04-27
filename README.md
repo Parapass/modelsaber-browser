@@ -11,4 +11,4 @@ First,
 then,
 `npm install`
 finally,
-`npm run`
+`npm start`
