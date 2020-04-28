@@ -11,6 +11,8 @@ Electron Packager
 First,
 `git clone https://github.com/parapass/modelsaber-browser/`
 then,
+`cd browser`
+then,
 `npm install`
 finally,
 `npm start`
