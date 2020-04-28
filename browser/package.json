@@ -2,7 +2,7 @@
   "name": "modelsaber-browser",
   "version": "0.1.1",
   "main": "main.js",
-  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "scripts":
   {
     "start": "electron ."
