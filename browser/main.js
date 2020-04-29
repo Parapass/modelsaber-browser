@@ -9,8 +9,9 @@ function createWindow () {
       nodeIntegration: true
     }
   })
-
-  win.loadFile('index.html')
+  
+  win.setMenu(null)
+  win.loadURL('https://modelsaber.com');
 }
 
 app.whenReady().then(createWindow)
