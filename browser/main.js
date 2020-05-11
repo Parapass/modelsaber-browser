@@ -10,7 +10,7 @@ function createWindow () {
     }
   })
   
-  win.setMenu(null)
+  win.removeMenu()
   win.loadURL('https://modelsaber.com');
 }
 
