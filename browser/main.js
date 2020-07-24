@@ -6,8 +6,8 @@ function createWindow () {
     width: 1280,
     height: 720,
     webPreferences: {
-      nodeIntegration: true;
-      frame: false;
+      nodeIntegration: true
+      frame: false
     }
   })
   
